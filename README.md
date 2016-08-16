@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/kork.svg)](https://badge.fury.io/js/kork)
+
 # kork
 A crude rate limiter for node. A work in progress. Very experimental. Not suitable for production (or anything really).
 
